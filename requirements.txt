@@ -1,0 +1,8 @@
+momepy==0.5.1
+geopandas==0.10.2
+pygeos
+mapclassify==2.4.3
+seaborn==0.11.2
+libpysal==4.5.1
+scikit-learn
+scipy

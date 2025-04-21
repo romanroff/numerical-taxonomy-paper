@@ -133,3 +133,4 @@ files/*.parquet
 files/*.pq
 files/*.gal
 files/*.csv
+/code_method/cache
